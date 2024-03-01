@@ -1,0 +1,4 @@
+repository "Cows prototype@Snowys@cloud"
+  path "/"
+    br "/main"
+    co "/main"
